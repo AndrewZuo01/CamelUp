@@ -1,0 +1,2 @@
+# CamelUp
+The boardgame CamelUp
